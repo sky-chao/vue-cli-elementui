@@ -1,6 +1,6 @@
+
 # my-first-vue-project
 
-> this is my-first-vue-project
 
 ## Build Setup
 
@@ -19,3 +19,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# vue-cli-elementui
+>>>>>>> 58303f3772a70e2d81edb1e2b331ee58cf64b437
